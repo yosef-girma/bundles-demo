@@ -24,4 +24,4 @@ If you're an existing Expresia user looking to learn the new system, I suggest c
 
 ## Any questions?
 
-If you've got any questions, We'd love to hear from you and have a conversation? Don't be shy! You can find us over at: <support@expresia.com> or via [slack](https://expresia.slack.com/join/shared_invite/zt-xbsbntwi-EDdzrcEnQHOOtDRkK7eZfg#/shared-invite/email)
+If you've got any questions, We'd love to hear from you and have a conversation. Don't be shy! You can find us over at: <support@expresia.com> or via [slack](https://expresia.slack.com/join/shared_invite/zt-xbsbntwi-EDdzrcEnQHOOtDRkK7eZfg#/shared-invite/email)
