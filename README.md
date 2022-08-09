@@ -1,27 +1,25 @@
 # bundles-demo
 
-This is a preliminary demonstration of Bundles 2.0 - a new system for creating Git based code which can run within the Expresia environment.
+This repository is an Expresia app that will help you quickly get started with Expresia Git Bundles. 
+We suggest cloning down the repository, and taking a look at both template.hbs in xpr/element and template.json in xpr/element_config. By cloning this Expresia app, it will allow you to look/edit/test the code on your own Expresia Instance. It is recommended to follow along with our video for ease of understanding. You can see a live version of this repository running over at the [expresia-gitbundles-demo.xpr.cloud](https://expresia-gitbundles-demo.xpr.cloud/)
 
-The audience for this repo is primarily existing users of Expresia who may be looking to migrate existing bundles two the new 2.0 model. 
+Git Bundles integration for Expresia is a new, completely Git based workflow that lets you work with familiar concepts like Elements, Datasources, Serverside Scripts and more, directly through Git using either your own self-hosted solution, or a popular provider such as [GitHub](https://github.com/) or [GitLab](https://about.gitlab.com/). 
 
-Bundles 2.0 fully supports Git "out of the box" and allows you as a developer to manage your own code workflow, while still leveraging the power of the broad toolset that the Expresia platform provides.
+The main audience for this demo is existing developers working within Expresia looking for a quick start guide on Git Bundle integration as well as build on existing techniques that will be familiar to individuals with experience developing within Expresia. 
 
-## What is Expresia?
+If you’re not familiar with Expresia, the all-In-One SaaS Digital Experience Platform that empowers brands to create future-proof digital assets,  find us at https://www.expresia.com/
 
-Expresia is a platform for delivering websites, e-stores and custom applications. It's a fully hosted service with 15+ years of development behind it - used worldwide.
+## Where can I try Expresia?
 
-Find us over at [Expresia.com](https://expresia.com/)
+You can start building for free with Expresia at: [Expresia.com](https://expresia.com/)
 
-## Where can I see it in action?
+## Any questions? Slack with us!
 
-You can see a live version of this repository running over at the [Expresia Bundles 2.0 Demo Page](https://bundles-demo.xpr.cloud/)
+[Click here to slack with us!](https://expresia.slack.com/join/shared_invite/zt-xbsbntwi-EDdzrcEnQHOOtDRkK7eZfg#/shared-invite/email)
 
-## Sorry, I'm confused?
+We can’t wait to see what you build with Expresia!
 
-Bare with us :) The Bundles 2 Beta -- and this "living documentation" is still under progress. If you've never heard of Expresia before, consider signing up over at [Expresia](https://www.expresia.com/try-it-free/) and giving it a test-drive! Take a look at the live demo and you'll likely get some insights into how we think about building projects with Expresia. 
 
-If you're an existing Expresia user looking to learn the new system, I suggest cloning down the repo, and taking a look at both `template.hbs` in `xpr/element` and `template.json` in `xpr/element_config`.
 
-## Any questions?
 
-If you've got any questions, We'd love to hear from you and have a conversation. Don't be shy! You can find us over at: <support@expresia.com> or via [slack](https://expresia.slack.com/join/shared_invite/zt-xbsbntwi-EDdzrcEnQHOOtDRkK7eZfg#/shared-invite/email)
+
