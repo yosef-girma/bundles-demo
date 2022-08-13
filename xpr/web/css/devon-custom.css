@@ -32,6 +32,10 @@ html, html * {
     font-family: "DIN", sans-serif;
 }
 
+a {
+    color: #F15255;
+}
+
 h1 {
     color: #3a2557;
     font-size: 38px;
