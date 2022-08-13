@@ -1,12 +1,49 @@
+/* 
+	font - "DIN Next LT Pro" 
+	font-weight - 300: light, 400: regular, 600: medium, 700: bold
+*/
+
+@font-face {
+	font-family: 'DIN';
+	font-weight: 300;
+	src: url('./dinnextltpro-light.otf');
+	font-display: swap;
+}
+@font-face {
+	font-family: 'DIN';
+	font-weight: 400;
+	src: url('./dinnextltpro-regular.otf');
+	font-display: swap;
+}
+@font-face {
+	font-family: 'DIN';
+	font-weight: 600;
+	src: url('./dinnextltpro-medium.otf');
+	font-display: swap;
+}
+@font-face {
+	font-family: 'DIN';
+	font-weight: 700;
+	src: url('./dinnextltpro-bold.otf');
+	font-display: swap;
+}
+
+html, html * { 
+    font-family: "DIN", sans-serif;
+}
+
 h1 {
-    font-family:monospace;
+    color: #3a2557;
+    font-size: 38px;
+    margin-bottom: 0;
 }
+
 h2 {
-    font-family:monospace;
-    text-decoration:underline;
-}
-h3 {
-    font-family:monospace;
+    color: #f15254;
+    font-size: 22px;
+    margin-bottom: 0;
+    margin-bottom: 2rem;
+    padding-top: 1.5rem;
 }
 
 div .sub-element::before {
@@ -36,7 +73,7 @@ div .sub-element {
     background-color:#DDF;
     margin:8px;
     padding:8px;
-    color:#2080F0;
+    color:#4E82EA;
 }
 
 .demo-code {
