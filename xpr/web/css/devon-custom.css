@@ -35,12 +35,14 @@ html, html * {
 h1 {
     color: #3a2557;
     font-size: 38px;
+    font-weight: 700;
     margin-bottom: 0;
 }
 
 h2 {
     color: #f15254;
     font-size: 22px;
+    font-weight: 700;
     margin-bottom: 0;
     margin-bottom: 2rem;
     padding-top: 1.5rem;
@@ -52,7 +54,7 @@ div .sub-element::before {
 }
 
 div .sub-element {
-    background-color:#DDD;
+    background-color:#fafafa;
     padding:5px;
     margin:5px;
     border-radius:5px;
@@ -63,6 +65,12 @@ div .sub-element {
     white-space: pre-wrap;
 }
 
+code {
+    font-size: 87.5%;
+    color: #e83e8c;
+    word-break: break-word;
+}
+
 .devon-example::before {
     font-weight:bold;
     content:"Example:";
@@ -70,7 +78,7 @@ div .sub-element {
 
 .devon-example {
     border-radius:5px;
-    background-color:#DDF;
+    background-color:#eee;
     margin:8px;
     padding:8px;
     color:#4E82EA;
@@ -82,12 +90,8 @@ div .sub-element {
     max-height:350px;
     overflow-x: scroll;
     overflow-y: scroll;
+    color:#4E82EA;
 }
-
-code {
-    color:#28F;
-}
-
 
 .devon-caption {
     width:70%;
